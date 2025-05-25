@@ -27,7 +27,7 @@ I love building and sharing my projects. Here are a few that I’m currently wor
 - **[Project 2: Personal Portfolio Website](https://github.com/Benazir/portfolio)**: A responsive portfolio website built with HTML, CSS, and JavaScript to showcase my skills, projects, and resume.
 
 ## 🌱 I’m Currently Learning:
-I’m always looking to expand my knowledge and stay up-to-date with the latest trends in the tech world. Right now, I’m focused on:
+I’m always looking to expand my knowledge and stay up-to-date with the latest trends in the tech world. Right now, I’m focused on:UI/UX Desiging and figma.
 
 ## 🏆 Achievements:
 - 🏅 Contributed to several open-source projects, including documentation improvements and bug fixes.
