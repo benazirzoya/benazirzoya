@@ -3,9 +3,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * ✉️  You can contact me at [benriq18@gmail.com](mailto:benriq18@gmail.com)
 ===============================================================================================================================
 
-Full Stack Web Developer and Designer
+Full Stack Web Developer and UI/UX Designer
 -------------------------------------
 Welcome to my GitHub profile! I'm a passionate and curious software developer who loves to explore new technologies, solve complex problems, and contribute to open-source projects. I have a strong background in software development, with a particular focus on full-stack development and web technologies.
+💻 I build modern, scalable web applications with a focus on clean code, intuitive UI/UX, and real-world problem-solving.
+🎨 I enjoy crafting beautiful interfaces using Figma, and I also work with Python for scripting and data-related tasks.
+🛒 My projects include an online supermarket management system, interactive educational platforms, and immersive 3D web experiences.
+🚀 Always learning, always building — open to collaboration and innovation!
 
 ## 🔎 A Little Bit About Me:
 - 🎓 **Education**:🌍  I'm based in web development, gaining expertise in both front-end and back-end technologies. I am proficient in HTML, CSS, JavaScript, React, Node.js, Express, and databases like MongoDB or MySQL. Through hands-on projects, I have built and deployed responsive web applications, gaining experience in API integration, authentication, and database management. I am eager to apply my skills in real-world projects, collaborate with teams, and continuously learn to grow as a developer.
