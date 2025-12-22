@@ -27,7 +27,7 @@ I work with a variety of tools and languages. Here’s a snapshot of my technica
 ## 📂 My Projects:
 I love building and sharing my projects. Here are a few that I’m currently working on or have completed:
 
-- **[Project 1: 🎉 Awards3D – Interactive 3D Awards Winning Website](awards3-d.vercel.app)**: A full-stack web application built using React and Node.js that helps users track their habits and stay motivated.
+- **[Project 1: 🎉 Awards3D – Interactive 3D Awards Winning Website](https://awards3-d.vercel.app)**: A full-stack web application built using React and Node.js that helps users track their habits and stay motivated.
 - **[Project 2: Personal Portfolio Website](https://portfolio-rho-tan-16.vercel.app)**: A responsive portfolio website built with HTML, CSS, and JavaScript to showcase my skills, projects, and resume.
 
 ## 🌱 Creative but Professional:
