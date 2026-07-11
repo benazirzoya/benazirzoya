@@ -1,56 +1,225 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'M Benazir
+<div align="center">
 
-* ✉️  You can contact me at [benriq18@gmail.com](mailto:benriq18@gmail.com)
-===============================================================================================================================
+# 👋 Hello, I'm **Benazir Banu**
 
-Full Stack Web Developer and UI/UX Designer
--------------------------------------
-Welcome to my GitHub profile! I'm a passionate and curious software developer who loves to explore new technologies, solve complex problems, and contribute to open-source projects. I have a strong background in software development, with a particular focus on full-stack development and web technologies.
-💻 I build modern, scalable web applications with a focus on clean code, intuitive UI/UX, and real-world problem-solving.
-🎨 I enjoy crafting beautiful interfaces using Figma, and I also work with Python for scripting and data-related tasks.
-🛒 My projects include an online supermarket management system, interactive educational platforms, and immersive 3D web experiences.
-🚀 Always learning, always building — open to collaboration and innovation!
+### 🚀 Full Stack Software Developer • Creative Frontend Engineer • UI/UX Designer
 
-## 🔎 A Little Bit About Me:
-- 🎓 **Education**:🌍  I'm based in web development, gaining expertise in both front-end and back-end technologies. I am proficient in HTML, CSS, JavaScript, React, Node.js, Express, and databases like MongoDB or MySQL. Through hands-on projects, I have built and deployed responsive web applications, gaining experience in API integration, authentication, and database management. I am eager to apply my skills in real-world projects, collaborate with teams, and continuously learn to grow as a developer.
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=30&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+Modern+Software.;Creating+Immersive+Web+Experiences.;Next.js+%7C+React+%7C+Laravel+%7C+Node.js.;Three.js+%7C+TypeScript+%7C+GSAP.;Always+Learning.+Always+Building." />
 
-- 🚀 **Current Focus**: Right now, I’m diving deep into building scalable applications using **React** and **Node.js**,
-
-## 💻 Skills & Technologies:
-I work with a variety of tools and languages. Here’s a snapshot of my technical skillset:
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+<p>
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-111827?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=benazirzoya&style=for-the-badge" />
 </p>
-### Socials
-<p align="left"> <a href="https://www.github.com/benazir" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/benriq_18-linkedin]" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-## 📂 My Projects:
-I love building and sharing my projects. Here are a few that I’m currently working on or have completed:
+### ✨ Building software that combines performance, scalability, and exceptional user experiences.
 
-- **[Project 1: 🎉 Awards3D – Interactive 3D Awards Winning Website](https://awards3-d.vercel.app)**: A full-stack web application built using React and Node.js that helps users track their habits and stay motivated.
-- **[Project 2: Personal Portfolio Website](https://portfolio-rho-tan-16.vercel.app)**: A responsive portfolio website built with HTML, CSS, and JavaScript to showcase my skills, projects, and resume.
-
-## 🌱 Creative but Professional:
-I’m always looking to expand my knowledge and stay up-to-date with the latest trends in the tech world. Right now, I’m focused on: UI/UX Desiging and figma.
-
-## 🏆 Achievements:
-- 🏅 Contributed to several open-source projects, including documentation improvements and bug fixes.
-- 🥇 Participated in a hackathon and won 1st place for building an innovative data visualization tool.
-- 🧑‍🏫 Mentored junior developers on React and Node.js through a local coding bootcamp.
-
-## 💬 Let’s Connect:
-I love networking and discussing tech! If you want to chat, ask questions, or collaborate on a project, feel free to reach out to me through the following platforms:
-- 📧 **Email**: benriq18@gmail.com
-- 💼 **LinkedIn**: [benriq_18-linkedin](https://www.linkedin.com/in/benriq18/)
-- 🐦 **Twitter**: [@benriq18](https://twitter.com/benazir banu)
-
-## 🌍 Fun Facts About Me:
-- When I'm not coding, I love **playing chess** and solving puzzles.
-- I have a **passion for photography** and enjoy capturing moments.
-
-## 💥 Let’s Build Something Together!
-If you're looking for a passionate developer to collaborate with, feel free to check out my repositories and connect with me. Let's build something awesome!
+</div>
 
 ---
 
-Thank you for visiting my GitHub profile. I’m excited to contribute, collaborate, and continue learning!
+# 💫 About Me
+
+I'm a **Full Stack Software Developer** passionate about creating modern web applications that blend clean engineering, scalable architecture, and thoughtful user experiences.
+
+I enjoy building complete digital products—from intuitive interfaces and interactive animations to secure backend systems, databases, APIs, and cloud deployments.
+
+My passion lies in creating software that is not only functional but also engaging, accessible, and visually refined.
+
+---
+
+# 🚀 Current Focus
+
+🔹 Building production-ready applications with **Next.js 15**
+
+🔹 Designing premium UI systems using **Tailwind CSS** and **Figma**
+
+🔹 Developing scalable backend applications with **Laravel**, **Node.js**, and **Express**
+
+🔹 Creating immersive experiences using **Three.js**, **React Three Fiber**, **GSAP**, and **Framer Motion**
+
+🔹 Exploring AI-assisted workflows and intelligent web applications
+
+🔹 Continuously improving software architecture and performance optimization
+
+---
+
+# 🛠 Tech Stack
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,bootstrap" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+## Design & Animation
+
+* Three.js
+* React Three Fiber
+* GSAP
+* Framer Motion
+* Figma
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,vercel" />
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+## 🌊 Aquaria
+
+A cinematic underwater experience inspired by immersive storytelling, interactive 3D environments, and premium motion design.
+
+**Tech Stack**
+
+Next.js • React • Three.js • R3F • GSAP • TypeScript
+
+---
+
+## 🚀 BenVerse
+
+A premium developer portfolio showcasing advanced frontend engineering, responsive layouts, and smooth animations.
+
+**Tech Stack**
+
+Next.js • Tailwind CSS • GSAP • Framer Motion
+
+---
+
+## 🎮 Zentry
+
+A gaming-inspired web experience with immersive interactions, modern UI architecture, and cinematic transitions.
+
+**Tech Stack**
+
+Next.js • React • Three.js
+
+---
+
+## 🧋 Bubble Bliss
+
+A complete full-stack web application with authentication, product management, dashboards, checkout, and administrative tools.
+
+**Tech Stack**
+
+Laravel • PHP • MySQL
+
+---
+
+## ❤️ Velvet Hearts
+
+A modern interactive experience designed with storytelling, elegant visuals, and engaging animations.
+
+**Tech Stack**
+
+Next.js • React • Tailwind CSS
+
+---
+
+# 🎯 Core Expertise
+
+✔ Full Stack Development
+
+✔ Frontend Engineering
+
+✔ Backend Development
+
+✔ REST API Development
+
+✔ Authentication Systems
+
+✔ Database Design
+
+✔ Responsive Web Development
+
+✔ UI/UX Design
+
+✔ Interactive 3D Websites
+
+✔ Performance Optimization
+
+✔ Cloud Deployment
+
+✔ Modern JavaScript Development
+
+---
+
+# 📚 Currently Learning
+
+* Software Architecture
+* System Design
+* AI Integration
+* Advanced Three.js
+* Cloud Infrastructure
+* Design Patterns
+* Performance Engineering
+
+---
+
+# 📈 GitHub Goals
+
+🚀 Build production-ready software
+
+🌍 Contribute to meaningful open-source projects
+
+🧠 Learn emerging technologies
+
+📦 Share reusable developer resources
+
+🤝 Collaborate with developers worldwide
+
+---
+
+# 📬 Connect With Me
+
+📧 **Email**
+
+**[benriq18@gmail.com](mailto:benriq18@gmail.com)**
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/benazir-banu
+
+🌐 **Portfolio**
+
+https://portfolio-rho-tan-16.vercel.app
+
+💻 **GitHub**
+
+https://github.com/benazirzoya
+
+---
+
+# 💭 Philosophy
+
+> **"Great software is where clean engineering meets meaningful design."**
+
+I believe every project is an opportunity to create software that is scalable, maintainable, accessible, and enjoyable to use.
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+If you enjoy my work, feel free to explore my repositories and connect with me.
+
+**Building today. Improving tomorrow.**
+
+</div>
